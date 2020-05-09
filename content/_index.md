@@ -1,5 +1,5 @@
 ---
-title: UTBA-Dev-2 Web Site
+title: Home
 sections:
 - type: heroblock
   template: heroblock
