@@ -24,9 +24,11 @@ sections:
     actions:
     - label: Get Started
       url: docs/index.html
-  - title: Blog
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - title: 'Meetings, Events and Networking '
+    content: |-
+      We strengthen our beekeeping community through networking and learning.
+
+      Due to the COVID-19 pandemic our next meeting is a Zoom meeting.
     actions:
     - label: View Posts
       url: blog/index.html
