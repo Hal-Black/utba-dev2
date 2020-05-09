@@ -18,10 +18,9 @@ sections:
   section_id: features
   component: features_block.html
   featureslist:
-  - title: Documentation
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
+  - title: New to beekeeping?
+    content: Get started by taking courses, reading guides, how to books and find
+      local beekeeping equipment
     actions:
     - label: Get Started
       url: docs/index.html
