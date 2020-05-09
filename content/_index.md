@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Urban Toronto Beekeepers' Association
+  title: Urban Toronto Beekeepers' Association Dev-2
   section_id: hero
   component: hero_block.html
   content: Welcome to the Urban Toronto Beekeepers' Association. Practicing sustainable
