@@ -3,12 +3,13 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hero Section
+  title: Urban Toronto Beekeepers' Association
   section_id: hero
   component: hero_block.html
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
-  image: images/5.jpg
+  content: Welcome to the Urban Toronto Beekeepers' Association. Practicing sustainable
+    beekeeping, through education and mentorship to urban beekeepers located in the
+    greater Toronto region.
+  image: "/images/damien-tupinier-OFEvgVfr6iU-unsplash.jpg"
   actions:
   - label: Get Started
     url: docs/index.html
