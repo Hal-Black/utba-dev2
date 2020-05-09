@@ -32,10 +32,10 @@ sections:
     actions:
     - label: View Posts
       url: blog/index.html
-  - title: Style Guides
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
+  - title: Beekeeping Resources
+    content: The UTBA has collected a large body of resources that will be of interest
+      to beekeepers of any experience level - including scientific research, local
+      beekeeping supplier directory, and more.
     actions:
     - label: Learn More
       url: "/style-guide.html"
