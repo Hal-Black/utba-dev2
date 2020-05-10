@@ -2,7 +2,7 @@
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Mentorship-guidelines"
+title = "Guidelines"
 
 +++
 ### Guidelines
