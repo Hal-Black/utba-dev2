@@ -29,9 +29,7 @@ sections:
       We strengthen our beekeeping community through networking and learning.
 
       Due to the COVID-19 pandemic our next meeting is a Zoom meeting.
-    actions:
-    - label: View Posts
-      url: blog/index.html
+    actions: []
   - title: Beekeeping Resources
     content: The UTBA has collected a large body of resources that will be of interest
       to beekeepers of any experience level - including scientific research, local
