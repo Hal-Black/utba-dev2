@@ -4,6 +4,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Contact Us"
+[menu.main]
+weight = 7
 
 +++
 To reach us by email

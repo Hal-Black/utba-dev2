@@ -4,7 +4,7 @@ layout = "page"
 subtitle = "Your membership will help us keep our meetings active, interesting and useful to new and experienced beekeepers."
 title = "Become a Member"
 [menu.main]
-weight = 4
+weight = 3
 
 +++
 Your membership will help us keep our meetings active, interesting and useful to new and experienced beekeepers. Membership benefits include:
