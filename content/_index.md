@@ -29,7 +29,11 @@ sections:
       We strengthen our beekeeping community through networking and learning.
 
       Due to the COVID-19 pandemic our next meeting is a Zoom meeting.
-    actions: []
+    actions:
+    - label: Next Meeting
+      url: https://www.facebook.com/groups/urbantorontobeekeepers/events/
+    - label: Beekeeping Virtual Book Club
+      url: https://www.eventbrite.com/e/virtual-beekeeper-book-club-tickets-103004288600
   - title: Beekeeping Resources
     content: The UTBA has collected a large body of resources that will be of interest
       to beekeepers of any experience level - including scientific research, local
