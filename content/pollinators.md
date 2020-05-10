@@ -3,6 +3,9 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Pollinators"
+[menu.main]
+name = "Protecting Pollinators"
+weight = 10
 
 +++
 This will will supply information about a variety of topics affecting:
