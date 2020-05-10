@@ -5,7 +5,7 @@ subtitle = ""
 title = "Swarms "
 [menu.main]
 name = "Swarms"
-weight = 9
+weight = 6
 
 +++
 **Honeybee Swarms**
