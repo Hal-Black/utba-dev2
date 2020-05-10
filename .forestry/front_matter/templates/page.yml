@@ -25,4 +25,5 @@ fields:
     required: true
 pages:
 - content/about-us.md
+- content/become-a-member.md
 - content/style-guide.md
