@@ -5,7 +5,7 @@ subtitle = ""
 title = "Mentorship "
 [menu.main]
 name = "Mentorship"
-weight = 9
+weight = 5
 
 +++
 **rban Toronto Beekeepers’ Association Mentorship Program**
