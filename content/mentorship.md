@@ -3,6 +3,9 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Mentorship "
+[menu.main]
+name = "Mentorship"
+weight = 9
 
 +++
 **rban Toronto Beekeepers’ Association Mentorship Program**
