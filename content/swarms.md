@@ -3,6 +3,9 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Swarms "
+[menu.main]
+name = "Swarms"
+weight = 9
 
 +++
 **Honeybee Swarms**
