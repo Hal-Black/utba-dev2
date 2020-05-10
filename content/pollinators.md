@@ -5,7 +5,7 @@ subtitle = ""
 title = "Pollinators"
 [menu.main]
 name = "Protecting Pollinators"
-weight = 10
+weight = 7
 
 +++
 This will will supply information about a variety of topics affecting:

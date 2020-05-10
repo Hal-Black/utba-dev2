@@ -24,11 +24,11 @@ menu:
   main:
   - url: "#"
     name: Sample Layouts
-    weight: 8
+    weight: 9
     identifier: layouts
   - url: https://github.com/
     name: GitHub
-    weight: 9
+    weight: 10
     identifier: github
 disableKinds:
 - RSS
