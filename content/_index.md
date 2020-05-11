@@ -22,7 +22,7 @@ sections:
     content: Get started by taking courses, reading guides, how to books and find
       local beekeeping equipment
     actions:
-    - label: Get Started
+    - label: Learn more
       url: docs/index.html
   - title: 'Meetings, Events and Networking '
     content: |-
