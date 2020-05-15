@@ -1,6 +1,9 @@
 ---
 title: Welcome to Libris
 layout: docs
+weight: 
+excerpt: ''
+draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
