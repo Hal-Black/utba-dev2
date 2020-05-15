@@ -4,7 +4,6 @@ excerpt: In this section you'll find basic information about Libris and how to u
   it.
 layout: docs
 weight: 
-draft: true
 
 ---
 #### Raring to go?   What do you need to be an urban beekeeper?
