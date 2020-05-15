@@ -3,7 +3,6 @@ title: Resources
 layout: docs
 weight: 
 excerpt: ''
-draft: true
 
 ---
 Coming Soon!
