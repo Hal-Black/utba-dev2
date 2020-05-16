@@ -5,6 +5,6 @@ weight:
 excerpt: ''
 
 ---
-Coming Soon!
+Resources
 
-Our recommended list of books, videos and classes.
+You can find everything you need about bee keeping in Toronto.
