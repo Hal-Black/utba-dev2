@@ -1,11 +1,11 @@
 ---
 root_folder: "/docs/"
 sections:
-- Websites, Blogs and on-line Newsletters
 - about
 - getting-started
 - ui-components
 - manage-content
 - tools
 - faq
+- Websites, Blogs and on-line Newsletters
 - community
