@@ -1,101 +1,16 @@
 ---
-title: Manage Content
-excerpt: >-
-  In this section you'll learn how to add syntax highlighting, examples,
-  callouts and much more.
+title: Magazines and Journals
+excerpt: In this section you'll learn how to add syntax highlighting, examples, callouts
+  and much more.
 layout: docs
+weight: 
+
 ---
+## **Magazines and Journals**
 
-<div class="note">
-  <strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
+There are a variety of good magazines and journals devoted to beekeeping. Those listed below are chosen for their relevance for beekeeping in Ontario.
 
-### Syntax highlighting
-
-You can add a language identifier to enable syntax highlighting in your code block. For example, to highlight the **JavaScript** code, specify `javascript` next to the tick marks before the fenced code block:
-
-<pre>
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
-
-The rendered output looks like this:
-
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-
-Or to highlight the **CSS** code, specify `css` next to the tick marks before the fenced code block:
-
-<pre>
-```css
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
-
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
-
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
-</pre>
-
-The rendered output looks like this:
-
-```css
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
-
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
-
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
-
-## Callouts
-
-There are two types of callouts availabale in this theme, **important** and **note**.
-
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
-</div>
-
-<div class="note">
-  <strong>Note:</strong> 
-  This is an "Note" callout block of text. 
-  This block signifies a general note or tip.
-</div>
-
-## Tables
-
-You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
-
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
+* **_Ontario Bee Journal_**.The Ontario Beekeepers’ Association produces the bi-monthly OBJ and sends the journal to all OBA members, who also have access to the journal on-line. Regular articles include: beekeeping industry news; seasonal beekeeping information (“This Month in the Beeyard”); the latest research from the OBA’s Tech Transfer group; the Provincial Apiarist report; profiles of Ontario beekeepers; and more. [https://www.ontariobee.com/](https://www.ontariobee.com/ "https://www.ontariobee.com/")
+* **_Hivelights._** The Canada Honey Council produces a quarterly magazine primarily geared to commercial beekeepers across Canada, with regional reports from provincial beekeeping associations, the Honeybee Health Coalition, honey production statistics, regulations governing labelling and honeybee pest control products, etc. This magazine is also mailed to all OBA members.
+* **_American Bee Journal._** The monthly ABJ is packed with information for both new and experienced beekeepers. The journal contains regular columns on beekeeping basics, beekeeping science updates, and “The Classroom”, which answers readers’ questions about all aspects of beekeeping. Each issue also contains a dizzying array of in-depth articles. [http://americanbeejournal.com/](http://americanbeejournal.com/ "http://americanbeejournal.com/")
+* **_Bee Culture: The Magazine of American Beekeeping._** This monthly magazine is produced by the Eastern Apicultural Society, an educational organization in eastern North America that promotes bee culture, beekeeper education, certification of Master Beekeepers and bee research. (The editor-in-chief, Kim Flottum, is also author of _The Backyard Beekeeper_.) Like the ABJ, there are lots of good, useful articles. _Bee Culture_ is perhaps a little more oriented to the natural beekeeper than the ABJ. [http://www.beeculture.com/](http://www.beeculture.com/ "http://www.beeculture.com/")
