@@ -1,6 +1,8 @@
 ---
 root_folder: "/docs/"
 sections:
+- local-suppliers
+- ''
 - about
 - getting-started
 - ui-components
