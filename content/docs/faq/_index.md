@@ -6,7 +6,7 @@ layout: docs
 weight: 
 
 ---
-### **Videos**
+### **Videos-1**
 
 There are many, many videos available on-line that offer guidance for beekeepers. Some of these are excellent resources, some not so much. We have selected videos that we think are particularly useful for small-scale and urban beekeepers in Southern Ontario. These include:
 
