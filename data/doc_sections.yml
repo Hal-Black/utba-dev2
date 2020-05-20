@@ -1,7 +1,6 @@
 ---
 root_folder: "/docs/"
 sections:
-- faq-2
 - about
 - getting-started
 - ui-components
