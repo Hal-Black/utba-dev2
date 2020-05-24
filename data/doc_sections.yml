@@ -3,4 +3,3 @@ root_folder: "/docs/"
 sections:
 - getting-started
 - ui-components
-- tools
