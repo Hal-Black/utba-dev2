@@ -3,7 +3,6 @@ root_folder: "/docs/"
 sections:
 - about
 - getting-started
-- local-suppliers
 - ui-components
 - manage-content
 - tools
