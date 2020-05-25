@@ -7,4 +7,4 @@ excerpt: ''
 ---
 Resources
 
-You can find everything you need about bee keeping in Toronto.
+Peruse our sections below to learn about beekeeping in Toronto
