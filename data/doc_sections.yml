@@ -2,5 +2,4 @@
 root_folder: "/docs/"
 sections:
 - local-suppliers
-- getting-started
 - ui-components
