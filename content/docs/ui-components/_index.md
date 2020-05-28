@@ -6,6 +6,6 @@ layout: docs
 weight: 
 
 ---
-### Local suppliers  
+### Local suppliers
 
-Here is a list of local suppliers.
+Here is a list of local suppliers. now
