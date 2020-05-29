@@ -8,4 +8,4 @@ weight:
 ---
 ### Local suppliers
 
-Here is a list of local suppliers. now
+Here is a list of local suppliers. now !
