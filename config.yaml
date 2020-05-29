@@ -2,8 +2,12 @@
 title: Stackbit Libris Theme
 baseURL: "/"
 params:
-  palette: blue
+  palette: yellow
   palettes:
+      yellow:
+      sass:
+        accent1: "#c59100"
+        accent2: "#e4bf21"
     blue:
       sass:
         accent1: "#00c6ff"
