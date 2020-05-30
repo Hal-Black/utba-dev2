@@ -4,7 +4,7 @@ baseURL: "/"
 params:
   palette: yellow
   palettes:
-     yellow:
+    yellow:
       sass:
         accent1: "#c59100"
         accent2: "#e4bf21"
