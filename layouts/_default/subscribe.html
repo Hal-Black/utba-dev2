@@ -1,0 +1,115 @@
+{{ define "content" }}
+
+  <article class="post page post-full">
+    <header class="post-header bg-gradient outer">
+      {{ if .Params.img_path }}
+      <div class="bg-img" style="background-image: url('{{ .Params.img_path | relURL }}')"></div>
+      {{ end }}
+      <div class="inner-small">
+        <h1 class="post-title">{{ .Params.title }}</h1>
+        {{ if .Params.subtitle }}
+        <div class="post-subtitle">
+          {{ .Params.subtitle | safeHTML }}
+        </div><!-- .post-subtitle -->
+        {{ end }}
+      </div><!-- .inner-small -->
+    </header><!-- .post-header -->
+    <div class="outer">
+      <div class="inner-medium">
+        <div class="post-content">
+          {{ .Content }}
+          <!-- Load Stripe.js on your website. -->
+          <script src="https://js.stripe.com/v3"></script>
+          <h2>Full Membership</h2>
+          <p>Choose this membership if you're an adult, fully employed and are not a full time student. Membership subscription is valid for 12 months from the time of purchase.</p>
+
+          <button
+            id="checkout-button-plan_GyagAkgvUwDvFw"
+            role="link" class="button"
+          >
+            Full membership $25 per year
+          </button>
+
+            <h2>Reduced Membership</h2>
+            <p>Choose this membership if you're a full time student, underemployed or retired. Membership is valid for 12 months from the time of purchase.</P>
+
+          <button
+            class="button"
+            id="checkout-button-plan_Gyaimby3II6Kk6"
+            role="link"
+          >
+          Reduced membership $15 per year
+          </button>
+
+          <!-- Subscribe Membership button code -->
+          <div id="error-message"></div>
+          <script>
+          (function() {
+            var stripe = Stripe('pk_live_axDSDfRyCEOWjrT7mIlbuILD');
+
+            var checkoutButton = document.getElementById('checkout-button-plan_GyagAkgvUwDvFw');
+            checkoutButton.addEventListener('click', function () {
+              // When the customer clicks on the button, redirect
+              // them to Checkout.
+              stripe.redirectToCheckout({
+                items: [{plan: 'plan_GyagAkgvUwDvFw', quantity: 1}],
+
+                // Do not rely on the redirect to the successUrl for fulfilling
+                // purchases, customers may not always reach the success_url after
+                // a successful payment.
+                // Instead use one of the strategies described in
+                // https://stripe.com/docs/payments/checkout/fulfillment
+                successUrl: 'https://www.urbantorontobeekeepers.org/success',
+                cancelUrl: 'https://www.urbantorontobeekeepers.org/canceled',
+              })
+              .then(function (result) {
+                if (result.error) {
+                  // If `redirectToCheckout` fails due to a browser or network
+                  // error, display the localized error message to your customer.
+                  var displayError = document.getElementById('error-message');
+                  displayError.textContent = result.error.message;
+                }
+              });
+            });
+          })();
+          </script>
+          <!-- Load Stripe.js on your website. -->
+          <script src="https://js.stripe.com/v3"></script>
+          
+          <!-- Reduced Membership -->
+          <script>
+          (function() {
+            var stripe = Stripe('pk_live_axDSDfRyCEOWjrT7mIlbuILD');
+
+            var checkoutButton = document.getElementById('checkout-button-plan_Gyaimby3II6Kk6');
+            checkoutButton.addEventListener('click', function () {
+              // When the customer clicks on the button, redirect
+              // them to Checkout.
+              stripe.redirectToCheckout({
+                items: [{plan: 'plan_Gyaimby3II6Kk6', quantity: 1}],
+
+                // Do not rely on the redirect to the successUrl for fulfilling
+                // purchases, customers may not always reach the success_url after
+                // a successful payment.
+                // Instead use one of the strategies described in
+                // https://stripe.com/docs/payments/checkout/fulfillment
+                successUrl: 'http://www.urbantorontobeekeepers.org/success',
+                cancelUrl: 'http://www.urbantorontobeekeepers.org/canceled',
+              })
+              .then(function (result) {
+                if (result.error) {
+                  // If `redirectToCheckout` fails due to a browser or network
+                  // error, display the localized error message to your customer.
+                  var displayError = document.getElementById('error-message');
+                  displayError.textContent = result.error.message;
+                }
+              });
+            });
+          })();
+          </script>
+        </div><!-- .post-content -->
+      </div><!-- .inner-medium -->
+    </div><!-- .outer-->
+  </article><!-- .post -->
+
+{{ end }}
