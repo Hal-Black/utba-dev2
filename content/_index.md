@@ -13,8 +13,6 @@ sections:
   actions:
   - label: Become a member
     url: "/subscribe"
-  - label: Get Started
-    url: docs/index.html
 - type: featuresblock
   template: featuresblock
   section_id: features
