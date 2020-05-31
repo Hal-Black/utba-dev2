@@ -11,6 +11,8 @@ sections:
     greater Toronto region.
   image: "/images/damien-tupinier-OFEvgVfr6iU-unsplash.jpg"
   actions:
+  - label: Become a member
+    url: "/subscribe"
   - label: Get Started
     url: docs/index.html
 - type: featuresblock
