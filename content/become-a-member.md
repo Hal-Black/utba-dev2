@@ -2,7 +2,7 @@
 img_path = ""
 layout = "subscribe"
 subtitle = "Your membership will help us keep our meetings active, interesting and useful to new and experienced beekeepers."
-title = "subscribe"
+title = "Become a member"
 [menu.main]
 weight = 3
 
