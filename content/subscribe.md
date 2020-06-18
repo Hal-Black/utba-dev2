@@ -7,7 +7,7 @@ title = "subscribe"
 weight = 3
 
 +++
-Your membership will help us keep our meetings active, interesting and useful to new and experienced beekeepers. Membership benefits include:
+Your membership will help us keep our meetings active, interesting and useful to new and experienced beekeepers. Membership benefits include::
 
 * Full access to UTBA events, workshops and meetings
 * The opportunity to network and learn from other local beekeepers
