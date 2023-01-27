@@ -5,6 +5,11 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5eb5c354553956001bb22db6/webhook/forestry
 sections:
 - type: directory
+  path: ''
+  label: Label-1
+  create: all
+  match: "**/*"
+- type: directory
   path: content/docs
   label: Resource
   create: all
