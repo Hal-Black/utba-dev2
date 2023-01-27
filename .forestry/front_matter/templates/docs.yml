@@ -28,10 +28,6 @@ fields:
     required: true
 pages:
 - content/docs/_index.md
-- content/docs/_index.md
-- content/docs/getting-started/_index.md
 - content/docs/getting-started/_index.md
 - content/docs/ui-components/_index.md
-- content/docs/ui-components/_index.md
-- content/docs/ui-components/typography.md
 - content/docs/ui-components/typography.md
